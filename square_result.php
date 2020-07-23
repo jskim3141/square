@@ -61,6 +61,6 @@
         echo '<div id="clear"><b>FAIL</b></div>';
       };
      ?>
-     <div id='curvedarrow' onclick="window.location.href = '/index.html'">New</div>
+     <div id='curvedarrow' onclick="window.location.href = '../index.html'">New</div>
 	</body>
 </html>
